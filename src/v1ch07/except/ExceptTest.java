@@ -1,4 +1,4 @@
-package except;
+package v1ch07.except;
 
 import java.awt.EventQueue;
 import java.awt.event.*;
