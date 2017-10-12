@@ -11,5 +11,7 @@ public class CountryTest {
         //country.getPeople();
         country.descriptionCity();
         country.getCity();
+
+        Country.City CC = new Country().new City();  //доступ к внутреннему классу
     }
 }

@@ -1,4 +1,4 @@
-package v0myExperiences.innerClass.Interface;
+package v0myExperiences.Interface;
 
 /**
  * Created by GrandMaster WERT on 10.10.2017.
