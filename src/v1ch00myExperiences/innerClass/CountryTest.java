@@ -1,4 +1,4 @@
-package v0myExperiences.innerClass;
+package v1ch00myExperiences.innerClass;
 
 /**
  * Created by WERT on 11.10.2017.
