@@ -31,7 +31,7 @@ class ArrayAlg
       @return a pair with the min and max value, or null if a is 
       null or empty
    */
-   public static <T extends Comparable> Pair<T> minmax(T[] a) 
+   public static <T extends Comparable  > Pair<T> minmax(T[] a)
    {
       if (a == null || a.length == 0) return null;
       T min = a[0];

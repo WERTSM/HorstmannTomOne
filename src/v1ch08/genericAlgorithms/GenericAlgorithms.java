@@ -56,4 +56,3 @@ class ArrayAlg
       return (T[]) mm; // compiles with warning
    }      
 }
-
