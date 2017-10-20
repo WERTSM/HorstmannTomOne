@@ -13,7 +13,7 @@ public class GenericAlgorithms
 {
    public static void main(String[] args)
    {
-      Pair<String> p = Pair.makePair(String::new);
+      Pair<String> p = Pair.makePair(String::new); //lambda
       System.out.println(p);
       
       p = Pair.makePair(String.class);
