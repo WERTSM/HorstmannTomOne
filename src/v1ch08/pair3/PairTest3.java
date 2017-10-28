@@ -71,4 +71,3 @@ class PairAlg
       p.setSecond(t);
    }
 }
-
