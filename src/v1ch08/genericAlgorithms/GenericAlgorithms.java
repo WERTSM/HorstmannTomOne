@@ -1,6 +1,5 @@
 package v1ch08.genericAlgorithms;
 
-
 import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.function.IntFunction;
