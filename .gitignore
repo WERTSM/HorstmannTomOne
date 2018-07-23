@@ -1,3 +1,5 @@
-.idea/*
-JavaCore.iml
-out/*
+.idea
+out
+target
+*.iml
+log
