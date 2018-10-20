@@ -1,8 +1,11 @@
 package v1ch00myExperiences.raznoe.a1.String;
 
+import java.io.Console;
+
 public class StringConsole {
   public static void main (String ... args){
-  //String str = new Console ("Stroka");
-  System.out.println(new Console ("Stroka"));
+    //Console cns = new Console ("Stroka");
+  String str = new Console ();
+  System.out.println();
   }
 }
