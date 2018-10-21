@@ -4,8 +4,9 @@ import java.io.Console;
 
 public class StringConsole {
   public static void main (String ... args){
-    //Console cns = new Console ("Stroka");
+    //Console cns = new Console (" Stroka");
   String str = new Console ();
   System.out.println();
+    
   }
 }
