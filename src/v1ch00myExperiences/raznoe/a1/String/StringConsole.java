@@ -6,7 +6,7 @@ public class StringConsole {
   public static void main (String [] args){
   //Console cns = new Console ("A tutti avanti Massimo Carrera!!!!!!!!!!!!!!!!!! ");
   //String str = new Console ();
-  System.out.println();
+  //System.out.println();
     
   }
 }
