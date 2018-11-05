@@ -9,4 +9,4 @@ public class StringConsole {
   //System.out.println();
     
   }
-}
+
