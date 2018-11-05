@@ -17,6 +17,7 @@ public class LotteryArray
          odds[n] = new int[n + 1];
 
       // fill triangular array
+      //metka1:
       for (int n = 0; n < odds.length; n++)
          for (int k = 0; k < odds[n].length; k++)
          {
@@ -28,6 +29,9 @@ public class LotteryArray
                lotteryOdds = lotteryOdds * (n - i + 1) / i;
 
             odds[n][k] = lotteryOdds;
+        /*    if(n==4)
+               break metka1;*/
+
          }
 
       // print triangular array
