@@ -1,5 +1,4 @@
 package v1ch05.inheritance;
-
 public class Manager extends Employee
 {
    private double bonus;
