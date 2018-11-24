@@ -59,6 +59,7 @@ class TalkingClock
       public TimePrinter(TalkingClock clock){
          outer = clock;
       }
+      
       public void actionPerformed(ActionEvent event)
       {
          System.out.println("At the tone, the time is " + new Date());
