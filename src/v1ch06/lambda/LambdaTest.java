@@ -28,6 +28,7 @@ public class LambdaTest
       t.start();   
          
       // keep program running until user selects "Ok"
+      
       JOptionPane.showMessageDialog(null, "Quit program?");
       System.exit(0);         
    }
