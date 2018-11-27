@@ -19,6 +19,7 @@ public class CloneTest
          System.out.println("original= " + original);
          System.out.println("copy= " + copy);
       }
+      
       catch (CloneNotSupportedException e)
       {
          e.printStackTrace();
