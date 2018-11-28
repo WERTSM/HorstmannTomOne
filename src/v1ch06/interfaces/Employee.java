@@ -33,6 +33,7 @@ public class Employee implements Comparable<Employee>
     * @return a negative value if this employee has a lower salary than
     * otherObject, 0 if the salaries are the same, a positive value otherwise
     */
+    
    public int compareTo(Employee other)
    {
       return Double.compare(salary, other.salary);
