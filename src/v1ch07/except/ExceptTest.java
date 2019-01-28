@@ -166,7 +166,6 @@ class ExceptTestPanel extends Box
                }
             }
          };
-
       button.addActionListener(listener);
       add(button);
       group.add(button);

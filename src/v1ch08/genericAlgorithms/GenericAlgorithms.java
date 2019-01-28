@@ -8,6 +8,7 @@ import java.util.function.IntFunction;
  * @version 1.00 2015-05-21
  * @author Cay Horstmann
  */
+
 public class GenericAlgorithms
 {
    public static void main(String[] args)
