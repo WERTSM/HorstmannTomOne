@@ -17,4 +17,5 @@ public class Pair<T>
 
    public void setFirst(T newValue) { first = newValue; }
    public void setSecond(T newValue) { second = newValue; }
+   
 }
