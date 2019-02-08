@@ -4,6 +4,7 @@ package v1ch08.pair2;
  * @version 1.00 2004-05-10
  * @author Cay Horstmann
  */
+
 public class Pair<T> 
 {
    private T first;
